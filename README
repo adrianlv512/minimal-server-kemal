@@ -1,7 +1,8 @@
 install crystal (https://crystal-lang.org/)  
-shards install
+run 'shards install'
 install flyctl (https://fly.io/docs/hands-on/install-flyctl/)
-fly login
+run 'fly login'
 update app and primary_region in fly.toml
-fly launch
-fly deploy
+run 'fly launch'
+run 'fly deploy'
+
