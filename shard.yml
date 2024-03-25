@@ -1,0 +1,6 @@
+name: minimal-server-kemal
+version: 0.0.1
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal

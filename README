@@ -1,0 +1,5 @@
+update app and primary_region in fly.toml
+
+shards install
+fly launch
+fly deploy
